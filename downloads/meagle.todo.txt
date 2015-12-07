@@ -1,0 +1,4 @@
+1. Port meagle from minigui to gtk3. Names gnumap.
+2. Include some default map files!
+3. add gnumap to Debian.
+
